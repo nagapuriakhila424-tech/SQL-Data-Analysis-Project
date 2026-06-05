@@ -43,10 +43,10 @@ This project focuses on SQL Data Analysis using Python, Pandas, and SQLite. The 
 - Top Revenue Generating Product
 - Top 5 Highest Value Orders
 
-## 📖 Project Preview
-If GitHub has trouble rendering the notebook, view it on **nbviewer**:
+## 📊 Project Preview
+The complete SQL Data Analysis project, including data cleaning, database creation, SQL queries, analytical outputs, and business insights, can be viewed directly in the Jupyter Notebook available in this repository.
 
-👉 [View Notebook on nbviewer]()
+👉 Open **SQL Data Analysis Project.ipynb** to explore the complete workflow, SQL operations, and analysis results.
 
 ## ▶️ How to Run
 
