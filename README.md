@@ -78,3 +78,8 @@ The complete SQL Data Analysis project, including data cleaning, database creati
 
 ## ✅ Conclusion
 This project demonstrates how SQL and Python can be used together to clean data, manage databases, perform analytical queries, and generate actionable business insights from raw datasets.
+
+## 👩‍💻 Author
+**Akhila Nagapuri**
+Data Analytics Intern | Aspiring Data Analyst|python|SQL.
+
