@@ -74,7 +74,6 @@ If GitHub has trouble rendering the notebook, view it on **nbviewer**:
 - SQL Data Analysis Project.ipynb
 - Dataset for Data Analytics (1).csv
 - Cleaned_Dataset.csv
-- data_analytics.db
 - README.md
 
 ## ✅ Conclusion
